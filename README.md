@@ -1,1 +1,1 @@
-This is Aminu's first Git Project. Yes
+This is Aminu's first Git Project.
